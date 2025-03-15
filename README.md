@@ -1,2 +1,4 @@
 # Caos
-Acá van a agregar su nombre
+**Juan Pablo Yucumà Sanchez**
+
+*Luis Miguel Rosero Solìs*
