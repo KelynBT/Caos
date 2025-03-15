@@ -5,5 +5,6 @@ Luis Angel Ruiz Dulce,
 Carlos Stevan Cordoba Achinte,
 Andres Reyes,
 Juan Camilo Guimenez,
-Juan Pablo Gomez, **Juan Pablo Yucumà Sanchez**, 
-*Luis Miguel Rosero Solìs*
+Juan Pablo Gomez, 
+- **Juan Pablo Yucumà Sanchez** 
+- *Luis Miguel Rosero Solìs*
